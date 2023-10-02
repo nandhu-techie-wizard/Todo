@@ -1,0 +1,29 @@
+
+input{
+    border: none;
+    outline: none;
+    background:none;
+    color: white;
+}
+.task{
+    border:solid gray;
+    border-radius: 2px;
+}
+.todo .task2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.maincard{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgb(96, 96, 212) 0%, rgba(193, 43, 239, 0.51) 41%, rgb(147, 167, 193) 65%, rgb(153, 223, 237) 100%);
+}
+.task_1{
+    background: rgb(249, 249, 251);
+background: linear-gradient(90deg, rgb(96, 96, 212) 0%, rgba(193, 43, 239, 0.51) 41%, rgb(147, 167, 193) 65%, rgb(153, 223, 237) 100%);
+}
+.icon{
+    font-size:35px !important ;
+    color: aqua;
+}
+.taskcard{
+    background:#ebe9eb!important;
+}
